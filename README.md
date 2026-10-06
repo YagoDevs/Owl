@@ -1,4 +1,4 @@
-# VirtualPet 🦉
+# Game System - Owl Pet 🦉
 
 A virtual pet developed by **Yago Phellipe Matos Lopes** for the **Game Systems** course at **Saxion University**. The project explores how a pet's needs, mood, and personality can be communicated through animation, player interaction, and environmental feedback.
 
@@ -139,6 +139,12 @@ Links recorded in the report: [playtest questionnaire](https://docs.google.com/f
 | [`Assets/DayNightCycleController.cs`](Assets/DayNightCycleController.cs) | Day/night environment driven by energy. |
 | [`Assets/PetAnimationAudioPlayer.cs`](Assets/PetAnimationAudioPlayer.cs) | Sounds associated with animations. |
 | [`docs/`](docs/) | Original academic report and README images. |
+
+## Original project and credits
+
+This project started from [acdh2/VirtualPet](https://github.com/acdh2/VirtualPet), used as a starting point for the coursework. This repository preserves the original Git history and credits its contributors. Yago Phellipe Matos Lopes developed the owl pet implementation presented here for the Game Systems course at Saxion University.
+
+Third-party assets and tools retain their respective authorship and applicable license terms.
 
 ## Possible next steps
 
